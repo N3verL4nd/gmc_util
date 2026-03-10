@@ -331,7 +331,7 @@ namespace Gmc
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "GmcForm";
-            this.Text = "银联          信息科-李广辉";
+            this.Text = "银联          信息科-";
             ((System.ComponentModel.ISupportInitialize)(this.resultDataGridView)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.payLogBindingSource)).EndInit();
             this.ResumeLayout(false);
